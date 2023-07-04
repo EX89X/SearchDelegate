@@ -51,7 +51,7 @@ class TestState extends State<Test> {
                     scaffoldKey.currentState?.openEndDrawer();
                   })
               ],
-           ),
+        ),
         drawerScrimColor:Colors.transparent,
         endDrawer: Drawer(
           child: Column(children: [
